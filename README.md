@@ -31,3 +31,7 @@ O sistema é **multi-tenant por isolamento lógico**, onde:
 
 Hierarquia funcional:
 
+## 📚 Documentação
+
+- [Roadmap técnico e backlog](./docs/roadmap.md)
+
