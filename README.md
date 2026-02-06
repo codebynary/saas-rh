@@ -33,5 +33,7 @@ Hierarquia funcional:
 
 ## 📚 Documentação
 
-- [Roadmap técnico e backlog](./docs/roadmap.md)
+- [Arquitetura do Sistema](docs/architecture.md)
+- [Roadmap Técnico](docs/roadmap.md)
+
 
