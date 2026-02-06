@@ -33,7 +33,30 @@ Hierarquia funcional:
 
 ## 📚 Documentação
 
-- [Arquitetura do Sistema](docs/architecture.md)
-- [Roadmap Técnico](docs/roadmap.md)
+A documentação do sistema está organizada na pasta `/docs` e cobre todos os pilares da arquitetura do SaaS.
+
+- 📐 **Arquitetura Geral**  
+  `docs/architecture.md`  
+  Visão macro do sistema, camadas, responsabilidades e separação backend/frontend.
+
+- 🗄️ **Banco de Dados (Multi-Tenant)**  
+  `docs/database.md`  
+  Modelagem das entidades, relacionamentos e regras de isolamento por tenant.
+
+- 🔐 **Autenticação & Autorização**  
+  `docs/auth.md`  
+  Estratégia de login, JWT, roles, middlewares e resolução segura de tenant.
+
+- 🌐 **API (Contrato Backend)**  
+  `docs/api.md`  
+  Rotas, padrões REST, versionamento, respostas e regras críticas de segurança.
+
+- 🖥️ **Frontend (Fluxos e Permissões)**  
+  `docs/frontend.md`  
+  Telas, fluxos de navegação, controle de acesso e boas práticas no cliente.
+
+- 🗺️ **Roadmap Técnico**  
+  `docs/roadmap.md`  
+  Planejamento técnico, épicos e tarefas que serão convertidas em Issues do GitHub.
 
 
